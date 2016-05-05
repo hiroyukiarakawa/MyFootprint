@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFootprint</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="notification_logging">GPX Loging...</string>
+    <string name="toast_startlogging">Start GPX Loging</string>
+    <string name="toast_stoplogging">Stop GPX Loging</string>
+</resources>
